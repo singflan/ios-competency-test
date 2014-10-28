@@ -17,7 +17,7 @@ In order to be considered for the iOS position, you must complete the following 
 3. Please create an iOS app that accomplishes the following:
 	- Connect to the [Mock REST API](http://private-5bdb3-friendmock.apiary-mock.com)
 		- GET http://private-5bdb3-friendmock.apiary-mock.com/friends - Friends List
-		- GET http://private-5bdb3-friendmock.apiary-mock.com/friends - Friends Detail
+		- GET http://private-5bdb3-friendmock.apiary-mock.com/friends/id - Friends Detail
 	- Create the Friends List as shown in the wireframe. Use whatever tools, libraries, that you feel are necessary to complete the job. 
 	- If you still have time or would like the challenge. When a user clicks on a Friend bring them to the Friend Profile page. 
 	*Note: There is only one Friend profile object that is available through the API. Use this for all detail pages.* 
